@@ -2,4 +2,4 @@ Sentiment analysis of twitter hashtag #BetterCallSaul
 Traing with twitter.csv
 Then using Logistic Regresssion and Naive Bayes for sentiment analysin
 
-[source of data] (https://www.kaggle.com/kazanova/sentiment140)
+[source of data](https://www.kaggle.com/kazanova/sentiment140)
