@@ -1,5 +1,6 @@
-Sentiment analysis of twitter hashtag #BetterCallSaul
-Traing with twitter.csv
-Then using Logistic Regresssion and Naive Bayes for sentiment analysin
+##Sentiment analysis of twitter hashtag #BetterCallSaul
+##Traing with twitter.csv
+Then using Logistic Regresssion and Naive Bayes for sentiment analysis
 
 [source of data](https://www.kaggle.com/kazanova/sentiment140)
+# This is an <h1> tag
